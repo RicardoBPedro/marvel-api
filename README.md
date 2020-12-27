@@ -32,7 +32,8 @@ java -jar target/*.jar
 http://127.0.0.1:8080/public-docs.html
 ```
 
-* Documendation
+* Documentation
+
 All the APIs are documented in the link below:
 ```
 http://127.0.0.1:8080/public-docs.html
