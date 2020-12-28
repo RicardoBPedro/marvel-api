@@ -11,28 +11,28 @@ It is inspired on [Marvel API](https://developer.marvel.com/docs#!/public).
 ## Getting started
 This is a Spring Boot web application. Follow the steps below to test:
 
-* Download
+### Download
 ```
 git clone https://github.com/RicardoBPedro/marvel-api.git
 ```
 
-* Build
+### Build
 ```
 cd marvel-api/
 ./mvnw package
 ```
 
-* Run
+### Run
 ```
 java -jar target/*.jar
 ```
 
-* Test
+### Test
 ```
 http://127.0.0.1:8080/public-docs.html
 ```
 
-* Documentation
+### Documentation
 
 All the APIs are documented in the link below:
 ```
