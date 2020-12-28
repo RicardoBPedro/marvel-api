@@ -1,12 +1,12 @@
 # Marvel API (Dextra)
 
 this API implementation is part of the Dextra recruitment process.
-It is inspired on Marvel API (https://developer.marvel.com/docs#!/public).
+It is inspired on [Marvel API](https://developer.marvel.com/docs#!/public).
 
 ### Requirements
-* Maven (https://maven.apache.org/install.html)
-* JAVA 8
-* Git (https://git-scm.com/)
+* [Maven](https://maven.apache.org/install.html)
+* [JAVA 8](https://www.oracle.com/java/technologies/javase/javase-jdk8-downloads.html)
+* [Git](https://git-scm.com/)
 
 ## Getting started
 This is a Spring Boot web application. Follow the steps below to test:
@@ -18,7 +18,7 @@ git clone https://github.com/RicardoBPedro/marvel-api.git
 
 * Build
 ```
-cd marvel-api
+cd marvel-api/
 ./mvnw package
 ```
 
